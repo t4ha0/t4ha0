@@ -44,10 +44,11 @@ Salut ! Je suis **Taha** (alias **Mojito** sur le web 🍹). Étudiant ingénieu
 ---
 
 ### 📊 **Data Stream (Stats)**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t4ha0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4ha0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F" height="180" alt="languages graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t4ha0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t4ha0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=t4ha0&theme=radical&hide_border=true&background=0d1117)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t4ha0&theme=radical&hide_border=true&background=0d1117" alt="streak stats"/>
