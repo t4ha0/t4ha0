@@ -1,4 +1,5 @@
-<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/7e58ab69-df27-4cf2-97ec-66a89fbee2eb" />
+<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/daa01d0c-f7af-4014-8e6f-a79296c8076d" />
+
 
 <h1 align="center">Hey 👋 I'm Taha</h1>
 <h3 align="center">Data Science & AI Engineering Student | Machine Learning Enthusiast</h3>
