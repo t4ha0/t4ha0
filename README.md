@@ -1,4 +1,4 @@
-<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/daa01d0c-f7af-4014-8e6f-a79296c8076d" />
+
 
 
 <h1 align="center">Hey 👋 I'm Taha</h1>
