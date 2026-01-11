@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF,00FF99&height=200&section=header&text=Taha%20EL-BAGHAZAOUI&fontSize=60&fontColor=ffffff" width="100%"/>
-</div>
+<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/7e58ab69-df27-4cf2-97ec-66a89fbee2eb" />
 
 <h1 align="center">Hey 👋 I'm Taha</h1>
 <h3 align="center">Data Science & AI Engineering Student | Machine Learning Enthusiast</h3>
@@ -22,8 +20,7 @@ I navigate the tech universe with a refreshing blend of curiosity and code, expl
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" width="40" height="40"/>
 
----<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/7e58ab69-df27-4cf2-97ec-66a89fbee2eb" />
-<img width="4688" height="1563" alt="data analy (1500 x 500 px)" src="https://github.com/user-attachments/assets/c5a29f59-187c-45a8-85c3-ebc494ea0bb6" />
+---
 
 
 ### 📊 GitHub Stats
