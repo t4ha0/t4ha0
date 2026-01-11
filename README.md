@@ -1,12 +1,9 @@
+<h1 align="center">Hi 👋, it's Mojito</h1>
 
-
-
-<h1 align="center">Hi, it's Mojito 🍹👨‍🚀</h1>
-
-<h3 align="center">Data Explorer running on Internet Explorer Mode 🐢🚀</h3>
+<h3 align="center">Data Scientist running on Internet Explorer Mode</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Loading+Success...+Please+Wait;Powered+by+Mojitos+%26+Chaos+🍹;Exploring+the+Dataverse+🌌;Error+404:+Fear+Not+Found" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+%26+AI+Engineering;Building+Robust+Models;Turning+Data+into+Value;Deep+Learning+%26+SecOps" alt="Typing SVG" />
 </p>
 ---
 
