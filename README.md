@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Hey 👋 I'm Taha</h1>
-<h3 align="center">Data Science & AI Engineering Student | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi, it's Mojito 🍹👨‍🚀</h1>
+
+<h3 align="center">Data Explorer running on Internet Explorer Mode 🐢🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Student;Machine+Learning+Developer;AI+%26+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Loading+Success...+Please+Wait;Powered+by+Mojitos+%26+Chaos+🍹;Exploring+the+Dataverse+🌌;Error+404:+Fear+Not+Found" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 👨‍🚀 About Me
