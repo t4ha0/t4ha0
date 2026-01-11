@@ -13,10 +13,9 @@
 
 ### 👨‍🚀 About Me
 
-**Data Science enthusiast passionate about Machine Learning and the infinite possibilities of Artificial Intelligence.**
+**Mojito is an internet explorer passionate about Data Science and the infinite possibilities of Artificial Intelligence.**
 
-I navigate the tech universe with a blend of curiosity and code, exploring the depths of Deep Learning to turn theoretical models into real-world impact. Currently studying **Data Science & Computer Science Engineering (IDSI)** at FST Mohammedia, based in Benguerir, Morocco.
-
+I navigate the tech universe with a refreshing blend of curiosity and code, exploring the depths of Deep Learning to turn theoretical models into real-world impact. No buffer, just results. 
 ---
 
 ### 🛠️ Skills
